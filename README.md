@@ -53,13 +53,13 @@ ___
 
 
 ### 사용한 기술
-  - `Pyhon` `Django` `React` `MYSQL`
+  - `Pyhon` `Django` `React` `MYSQL` `AWS`
   - `Web-Crawling` `JWT` `DJANGO-REST-FRAMEWORK`
 
 ### 수행 역할
   - 게시판부분- POST, COMMENT 구축 ( `DRF` 사용 )
   - 메인페이지 웹 크롤링 담당 ( `Python` 사용 - https://www.timeticket.co.kr/ 크롤링 )
-  
+  - `AWS` `EC2` 배포 ( WINDOW-PUTTY 사용)
   
   
 
