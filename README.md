@@ -59,6 +59,7 @@ ___
 ### 수행 역할
   - 게시판부분- POST, COMMENT 구축 ( `DRF` 사용 )
   - 메인페이지 웹 크롤링 담당 ( `Python` 사용 - https://www.timeticket.co.kr/ 크롤링 )
+  - 프론트엔드 ( `React` 구현 )
   - `AWS` `EC2` 배포 ( WINDOW-PUTTY 사용)
   
   
@@ -76,6 +77,8 @@ ___
 
 - `React`을 이용해 프론트 부분 구현
 - `GraphQL`을 이용한 데이터베이스 사용
+
+
 
 
 
