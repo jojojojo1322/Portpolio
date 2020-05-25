@@ -1,6 +1,5 @@
 # 조현재
 
-- **2020년 2월 졸업 예정**입니다.
 
 ### 개인정보
 - [Github](https://github.com/jojojojo1322)
