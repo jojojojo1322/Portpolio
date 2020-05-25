@@ -37,47 +37,8 @@
 
 ___
 
-### 주요 프로젝트
-
-## [Lottey-Ticket]
-
-**타임커머스 문화티켓 판매 사이트 구현**
-
-[프로젝트 리포지터리]
-게시판 - (https://github.com/jojojojo1322/django-board-post-comment)
-
-웹 크롤링 - (https://github.com/jojojojo1322/python-django-web-crawling)
-
-전체 프로젝트 - (https://github.com/cskang8264/lotteryTicket)
-
-
-### 사용한 기술
-  - `Pyhon` `Django` `React` `MYSQL` `AWS`
-  - `Web-Crawling` `JWT` `DJANGO-REST-FRAMEWORK`
-
-### 수행 역할
-  - 게시판부분- POST, COMMENT 구축 ( `DRF` 사용 )
-  - 메인페이지 웹 크롤링 담당 ( `Python` 사용 - https://www.timeticket.co.kr/ 크롤링 )
-  - 프론트엔드 ( `React` 구현 )
-  - `AWS` `EC2` 배포 ( WINDOW-PUTTY 사용)
-  
-  
-
-## [Instagram clone - schoolgram]
-
-**인스타그램 클론 프로젝트**
-
-[프로젝트 리포지터리](https://github.com/ywan311/Schoolgram_FrontEnd)
-
-### 사용한 기술
-- `React` `React-Native` `React Hooks` `Node-js` `GraphQL` `Prisma` ` Express`
-
-### 수행 역할
-
-- `React`을 이용해 프론트 부분 구현
-- `GraphQL`을 이용한 데이터베이스 사용
-
-
+#### 조현재 포트폴리오 (기술경력) 다운로드
+- [portpolio](https://github.com/jojojojo1322/Portpolio/files/4677211/default.pdf)
 
 
 
